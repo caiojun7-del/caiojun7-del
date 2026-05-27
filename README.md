@@ -47,17 +47,9 @@ Atualmente estou no <strong>1º semestre</strong> da faculdade e construindo min
 <hr>
 
 <h2>📈 Estatísticas</h2>
-
 <p align="center">
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=caiojun7-del&show_icons=true&theme=radical"
-  />
-
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiojun7-del&layout=compact&theme=radical"
-  />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=caiojun7-del&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiojun7-del&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <hr>
